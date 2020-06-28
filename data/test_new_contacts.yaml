@@ -1,0 +1,7 @@
+test_new_contacts:
+  test_new_contacts1:
+    name: "zhumobing"
+    mobile: "18888888828"
+  test_new_contacts2:
+    name: "yingxiangfu"
+    mobile: "18888886828"
